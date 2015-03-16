@@ -1,0 +1,112 @@
+,n,Freq,name,include
+1,211112,6,Natural Gas Liquid Extraction,1
+2,212393,26,Other Chemical and Fertilizer Mineral Mining,1
+3,212399,1,All Other Nonmetallic Mineral Mining,0
+4,213112,5,Support Activities for Oil and Gas Operations,1
+5,221112,163,Fossil Fuel Electric Power Generation,0
+6,221122,33,Electric Power Distribution,0
+7,236220,1,Commercial and Institutional Building Construction,0
+8,237120,2,Oil and Gas Pipeline and Related Structures Construction,0
+9,311119,18,Other Animal Food Manufacturing,0
+10,311222,1,Soybean Processing,0
+11,311411,1,"Frozen Fruit, Juice, and Vegetable Manufacturing",0
+12,311511,2,Fluid Milk Manufacturing,0
+13,311613,2,Rendering and Meat Byproduct Processing,0
+14,311615,6,Poultry Processing,0
+15,311712,3,Fresh and Frozen Seafood Processing,0
+16,321113,6,Sawmills,0
+17,321114,21,Wood Preservation,0
+18,321212,14,Softwood Veneer and Plywood Manufacturing,0
+19,321213,5,Engineered Wood Member (except Truss) Manufacturing,0
+20,321219,6,Reconstituted Wood Product Manufacturing,0
+21,321918,1,Other Millwork (including Flooring),0
+22,321920,1,Wood Container and Pallet Manufacturing,0
+23,321999,2,All Other Miscellaneous Wood Product Manufacturing,0
+24,322110,58,Pulp Mills,0
+25,322121,23,Paper (except Newsprint) Mills,0
+26,322122,18,Newsprint Mills,0
+27,322130,110,Paperboard Mills,0
+28,322211,19,Corrugated and Solid Fiber Box Manufacturing,0
+29,322221,1,Coated and Laminated Packaging Paper Manufacturing,0
+30,324110,455,Petroleum Refineries,1
+31,324121,29,Asphalt Paving Mixture and Block Manufacturing,1
+32,324122,6,Asphalt Shingle and Coating Materials Manufacturing,1
+33,324191,83,Petroleum Lubricating Oil and Grease Manufacturing,1
+34,324199,34,All Other Petroleum and Coal Products Manufacturing,1
+35,325110,445,Petrochemical Manufacturing,1
+36,325120,89,Industrial Gas Manufacturing,1
+37,325131,8,Inorganic Dye and Pigment Manufacturing,1
+38,325181,154,Alkalies and Chlorine Manufacturing,1
+39,325182,43,Carbon Black Manufacturing,1
+40,325188,499,All Other Basic Inorganic Chemical Manufacturing,1
+41,325191,7,Gum and Wood Chemical Manufacturing,1
+42,325192,91,Cyclic Crude and Intermediate Manufacturing,1
+43,325193,17,Ethyl Alcohol Manufacturing,1
+44,325199,769,All Other Basic Organic Chemical Manufacturing,1
+45,325211,472,Plastics Material and Resin Manufacturing,1
+46,325212,114,Synthetic Rubber Manufacturing,1
+47,325311,32,Nitrogenous Fertilizer Manufacturing,1
+48,325312,22,Phosphatic Fertilizer Manufacturing,1
+49,325320,100,Pesticide and Other Agricultural Chemical Manufacturing,1
+50,325510,29,Paint and Coating Manufacturing,1
+51,325520,2,Adhesive Manufacturing,1
+52,325611,46,Soap and Other Detergent Manufacturing,1
+53,325612,5,Polish and Other Sanitation Good Manufacturing,1
+54,325613,4,Surface Active Agent Manufacturing,1
+55,325991,21,Custom Compounding of Purchased Resins,1
+56,325998,273,All Other Miscellaneous Chemical Product and Preparation Manufacturing,1
+57,326113,6,Unlaminated Plastics Film and Sheet (except Packaging) Manufacturing,1
+58,326121,2,Unlaminated Plastics Profile Shape Manufacturing,1
+59,326122,2,Plastics Pipe and Pipe Fitting Manufacturing,1
+60,326150,2,Urethane and Other Foam Product (except Polystyrene) Manufacturing,1
+61,326199,35,All Other Plastics Product Manufacturing,1
+62,327121,2,Brick and Structural Clay Tile Manufacturing,0
+63,327213,1,Glass Container Manufacturing,0
+64,327320,10,Ready-Mix Concrete Manufacturing,0
+65,327332,1,Concrete Pipe Manufacturing,0
+66,327390,1,Other Concrete Product Manufacturing,0
+67,327420,4,Gypsum Product Manufacturing,0
+68,327992,5,Ground or Treated Mineral and Earth Manufacturing,0
+69,331111,8,Iron and Steel Mills,0
+70,331210,9,Iron and Steel Pipe and Tube Manufacturing from Purchased Steel,0
+71,331311,5,Alumina Refining,0
+72,331314,5,Secondary Smelting and Alloying of Aluminum,0
+73,331316,5,Aluminum Extruded Product Manufacturing,0
+74,331491,7,"Nonferrous Metal (except Copper and Aluminum) Rolling, Drawing, and Extruding",0
+75,331513,8,Steel Foundries (except Investment),0
+76,332312,20,Fabricated Structural Metal Manufacturing,0
+77,332313,1,Plate Work Manufacturing,0
+78,332410,8,Power Boiler and Heat Exchanger Manufacturing,0
+79,332439,2,Other Metal Container Manufacturing,0
+80,332811,5,Metal Heat Treating,0
+81,332812,32,"Metal Coating, Engraving (except Jewelry and Silverware), and Allied Services to Manufacturers",0
+82,332813,5,"Electroplating, Plating, Polishing, Anodizing, and Coloring",0
+83,332911,8,Industrial Valve Manufacturing,0
+84,332919,1,Other Metal Valve and Pipe Fitting Manufacturing,0
+85,332996,15,Fabricated Pipe and Pipe Fitting Manufacturing,0
+86,332998,4,Enameled Iron and Metal Sanitary Ware Manufacturing,0
+87,332999,6,All Other Miscellaneous Fabricated Metal Product Manufacturing,0
+88,333111,3,Farm Machinery and Equipment Manufacturing,0
+89,333132,21,Oil and Gas Field Machinery and Equipment Manufacturing,0
+90,333314,2,Optical Instrument and Lens Manufacturing,0
+91,333415,5,Air-Conditioning and Warm Air Heating Equipment and Commercial and Industrial Refrigeration Equipment Manufacturing,0
+92,333912,2,Air and Gas Compressor Manufacturing,0
+93,335311,2,"Power, Distribution, and Specialty Transformer Manufacturing",0
+94,336112,8,Light Truck and Utility Vehicle Manufacturing,0
+95,336510,1,Railroad Rolling Stock Manufacturing,0
+96,336611,61,Ship Building and Repairing,0
+97,339911,1,Jewelry (except Costume) Manufacturing,0
+98,424690,105,Other Chemical and Allied Products Merchant Wholesalers,1
+99,424710,198,Petroleum Bulk Stations and Terminals,1
+100,447190,7,Other Gasoline Stations,0
+101,484220,3,"Specialized Freight (except Used Goods) Trucking, Local",0
+102,484230,3,"Specialized Freight (except Used Goods) Trucking, Long-Distance",0
+103,488310,9,Port and Harbor Operations,0
+104,488320,8,Marine Cargo Handling,0
+105,488390,2,Other Support Activities for Water Transportation,0
+106,493110,14,General Warehousing and Storage,0
+107,562112,3,Hazardous Waste Collection,0
+108,562211,23,Hazardous Waste Treatment and Disposal,0
+109,921190,2,Other General Government Support,0
+110,922140,2,Correctional Institutions,0
+111,928110,9,National Security,0
