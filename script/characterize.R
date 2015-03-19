@@ -25,7 +25,39 @@ white <- la$pop.total - la$pop.black
 
 load("result.RData")
 # test replicator
-samp52 <- replicate(5,calculate(n0=white,n1=black,bayes=result),simplify=FALSE)
-save(samp52,file="samp5.RData")
-
+samp54 <- replicate(5,calculate(n0=white,n1=black,bayes=result),simplify=FALSE)
+save(samp54,file="samp54.RData")
+samp53
 samp52
+
+
+?princomp
+
+dat <- do.call(rbind,mat.to.sweep)
+
+require(graphics)
+data(USArrests)
+
+pc.cr <- princomp(USArrests, cor=TRUE)
+
+summary(pc.cr)
+confint(pc.cr)
+
+names(pc.cr)
+pc.cr$loadings
+
+mean(pc.cr$scores[,1])
+sd(pc.cr$scores[,1])
+
+
+stem <- calculate(n0=white,n1=black,bayes=result)
+
+# let's try one at a time. Dump result if simulation fails.
+for(i in 1:5) {
+  try( {temp <- calculate(n0=white,n1=black,bayes=result)
+  stem <- c(stem,temp) })
+}
+
+
+
+
